@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Hi! Welcome to my GitHub. I'm Brian.
 
-<!--
-**eggroll-bot/eggroll-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning React. I'm building my first website, which can be found here: https://bmak.xyz/.
 
-Here are some ideas to get you started:
+📫 If you want to reach out to me, feel free to contact me by email (eggrollbot@gmail.com) or over Discord (TheAsian EggrollMaker#9458).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: https://www.linkedin.com/in/brian-mak/
+
+<p align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=eggroll-bot&count_private=true&show_icons=true&theme=dark">
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eggroll-bot&langs_count=10&theme=dark">
+</p>
