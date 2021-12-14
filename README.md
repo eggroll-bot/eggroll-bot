@@ -1,7 +1,5 @@
 ## 👋 Hi! Welcome to my GitHub. I'm Brian.
 
-🌱 I’m currently learning React and am building my first website, which can be found here: https://bmak.xyz/.
-
 📫 If you want to reach out to me, feel free to contact me by email at brian@bmak.xyz.
 
 LinkedIn: https://www.linkedin.com/in/brian-mak/
