@@ -1,8 +1,10 @@
 ## 👋 Hi! Welcome to my GitHub. I'm Brian.
 
-📫 If you want to reach out to me, feel free to contact me by email at brian@bmak.xyz.
+📫 If you want to reach out to me, feel free to contact me by email at brian@bmak.me.
 
-LinkedIn: https://www.linkedin.com/in/brian-mak/
+LinkedIn: https://www.linkedin.com/in/brian-mak
+
+Website: https://bmak.me/
 
 <p align="center">
   <br>
